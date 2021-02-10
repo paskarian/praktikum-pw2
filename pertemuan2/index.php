@@ -68,5 +68,18 @@ komentar
 // $x = 10;
 // var_dump($x > 30 && $x % 2 == 0);
 // var_dump($x > 30 || $x % 2 == 0);
-// ?>
+?>
 
+<!-- <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Belajar PHP</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+    <body>
+        <h1>Halo, Selamat datang <?php echo "Maleakhiano" ?></h1>
+        <h1>Halo, Selamat datang <?php echo $nama ?></h1>
+    </body>
+</html> -->
